@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"silver"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-color\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"fa",
+				"font-family\tproperty"
+			],
+			[
+				"do",
+				"dotted\tborder"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"te",
+				"text-top\tvertical-align"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"su",
+				"super\tvertical-align"
+			],
+			[
+				"text",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"no",
+				"not-allowed\tcursor"
+			],
+			[
+				"text-st",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"it",
+				"inherit\tfont-family"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"o",
+				"outset"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"d",
+				"double\tborder"
+			],
+			[
+				"text-decoration",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"rose",
+				"rosemarie"
+			],
+			[
+				"f",
+				"fname"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"hea",
+				"head\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1221,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/rose/divBox/index.html",
+		"/var/www/html/index.html.save",
+		"/var/www/html/index.html",
+		"/var/www/index.html.css",
+		"/var/www/rose/codes/index.html",
+		"/home/nine/Downloads/index.html",
+		"/var/www/rose/index.html",
+		"/var/www/rose/chupol.html",
+		"/var/www/rose/image/IMG_20210213_075309.jpg",
+		"/var/www/rose/image/rosemarie.jpg",
+		"/var/www/rose/css/index.css",
+		"/var/www/rose/index#2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
